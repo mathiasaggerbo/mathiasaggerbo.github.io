@@ -1,0 +1,32 @@
+---
+permalink: "/"
+---
+{% include header.html %}
+<div class="wrapper">
+    <div class="top">
+        <h1 class="page-title"><a href="https://twitter.com/maggerbo">{{site.title}}</a></h1>
+    </div>
+    <div class="container">
+        <div class="left">
+        {% for post in site.posts %}
+        <article>
+            {% if post.title != ""%}<h1><a href="{{post.url}}">{{post.title}}</a></h1>{%endif%}
+            <p>{{post.content}}</p>
+            <p class="created">Skrevet d. <a href="{{post.url}}">{{post.date | date_to_string}}</a></p>
+        </article>
+        {% endfor %}
+        </div>
+        <div class="right">
+            <section class="avatar-wrap">
+                <img src="/assets/me.jpg" />
+            </section>
+            <section>
+                <h3>Om</h3>
+                <p>Mit navn er Mathias. Jeg har altid elsket at udgive på nettet. Ideen om at skrive noget eller skabe noget, som dukker op på internettet har altid inspireret mig.</p>
+                <p> Jeg er medstifter af <a href="https://www.smartplan.dk">Smartplan</a> og Webloftet, men her på siden skriver jeg under eget navn. 
+                    Jeg skriver b.la. med afsæt i at være medejer af en software produktvirksomhed.</p>
+            </section>
+        </div>
+    </div>
+</div>
+{% include footer.html %}
