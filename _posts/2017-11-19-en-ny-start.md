@@ -1,8 +1,10 @@
 ---
-title: "En ny start"
+title: "En ny start - nu som Microblog"
 layout: post
 ---
 Det her er en ny start. Jeg har omskrevet min hjemmeside, så den i dag er en microblog.
+
+Nogle kan godt lide at skrive på Facebook, sende snaps eller ligge billeder op på Instagram. Ligesom dem, kan jeg godt lide at dele tanker og indhold. Men jeg kan godt lide at udgive indholdet selv, på mit eget domæne.
 
 Men hvad er en microblog. På [Wikipedia](https://en.wikipedia.org/wiki/Microblogging), står der følgende:
 
@@ -14,6 +16,6 @@ Jeg har lavet denne microblog, fordi jeg godt kunne tænke mig at udgive mit ind
 
 > But this simplicity comes at a cost: it’s impossible to move content between these platform silos, ads are everywhere, and if a company goes out of business, all the writing hosted there vanishes from the internet.
 
-Der var for meget bøvl med at importere gammelt indhold, så i stedet for at dvæle ved det der var, starter jeg på en frisk. Fremadrettet kan du forvente korte status beskeder og billeder, som også bliver postet til Twitter. Men jeg håber også at få tid til at skrive længere indlæg. Nu får vi at se.
+Fremadrettet kan du forvente korte status beskeder og billeder, som også bliver postet til Twitter. Men jeg håber også at få tid til at skrive længere indlæg. Nu får vi at se.
 
 Jeg håber at denne side kan være spændende for andre, som interesserer sig for at skabe ting online. Som interesserer sig for online forretning, Saas og bootstrapping.
