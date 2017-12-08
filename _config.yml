@@ -22,7 +22,7 @@ url: "http://mathiasaggerbo.dk" # the base hostname & protocol for your site, e.
 #url: "http://localhost:4000"
 twitter_username: jekyllrb
 github_username:  jekyll
-
+media: assets
 # Build settings
 markdown: kramdown
 theme: minima
