@@ -14,6 +14,6 @@ Jeg nåede at tænke ved mig selv at det var et spøjst spørgsmål, fra en mand
 
 "Nå nå, så i er stadig i fuld gang?” Afsluttede han vores samtale.
 
-Vores samtale sluttede der. Jeg blev overrasket over at det alligevel gjorte indtryk på mig. Vi har skabt vores virksomhed for at være uafhængig af tid og sted. Alligevel forsøger normen at tvinge os ind i nogle irrationelle 8-16 tankemønstre. "Du er ikke synlig, ergo arbejder du ikke". "Du er ikke på dit kontor, ergo producerer du ikke."
+Vores samtale sluttede der. Jeg blev overrasket over at det alligevel gjorde indtryk på mig. Vi har skabt vores virksomhed for at være uafhængig af tid og sted. Alligevel forsøger normen at tvinge os ind i nogle irrationelle 8-16 tankemønstre. "Du er ikke synlig, ergo arbejder du ikke". "Du er ikke på dit kontor, ergo producerer du ikke."
 
 Selvom vi ikke sidder på vores kontor og arbejder 8-16, er 2018 på vej til at blive vores bedste år. Men det måtte jeg nøjes med at bruge det meste af eftermiddagen på at overbevise mig selv om. For sådan er det også. Tvivlen kommer snigende, når normen presser sig på. 
