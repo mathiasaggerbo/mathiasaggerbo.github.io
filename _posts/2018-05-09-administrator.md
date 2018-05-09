@@ -11,6 +11,8 @@ Dråben flød over da jeg tog mig selv i at skrive følgende i vores gruppe chat
 
 > Har lige fået første udkast tilbage fra advokaten på databehandleraftalen. Det er skide godt 👍
 
+Skide godt! Hvordan kan jeg synes at det er skide godt? Det er jura!
+
 Hvad bliver det næste!? At jeg får lyst til at lave vores egen bogføring igen?
 
 Det skal være slut nu. Jeg skal bare lige finde ud af hvordan.
