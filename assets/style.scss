@@ -8,7 +8,7 @@ html {
 }
 
 body{
-    font-family: Avenir, sans-serif;
+    font-family: 'PT Serif', serif;;
     font-size: 15px;
 }
 .page-title{
@@ -27,6 +27,7 @@ article{
 }
 article h1 {
     font-size: 30px;
+    font-family: "Volkhov"
 }
 
 article h1 a{
@@ -34,6 +35,9 @@ article h1 a{
 }
 article h2{
     margin-top: 40px;
+}
+article p {
+    font-size:20px;
 }
 .created{
     font-size:12px;
@@ -73,7 +77,16 @@ article h2{
     padding-right: 2%;
 }
 .post .left{
-    flex:none;
+    flex: 0 0 100%;
+    margin: 0 auto;
+}
+.post .right{
+    flex: 1;
+}
+.post .container{
+    //display: block;
+    width: 600px;
+    margin: 0 auto;
 }
 img{
     max-width: 100%;
@@ -131,5 +144,17 @@ blockquote{
 @media only screen and (max-width: 800px) {
     .container {
         padding: 0px;
+        display: flex;
+    }
+    .post .container{
+        display:flex;
+        width: 100%;
+    }
+    .post .left{
+        flex: 0 0 100%;
+        margin: 0 auto;
+    }
+    .post .right{
+        flex: 1;
     }
 }
