@@ -9,4 +9,4 @@ Familie, venner, naboer og håndværkere alle samlet for at se et halvfærdigt h
 
 På forhånd var det noget som skulle overstås. Det viste sig at være en dag jeg aldrig glemmer.
 
-![](http://mathiasaggerbo.dk/assets/rejsegilde.jpg)
+![](/assets/rejsegilde.jpg)
