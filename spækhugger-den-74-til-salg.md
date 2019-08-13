@@ -18,13 +18,13 @@ Båden er hurtig, men fribordet bærer præg af at det er en ældre båd. Det er
 
 Båden har et stift dæk og har været tør i balsatræet(dækkets kerne), de steder hvor vi har sat nye beslag på.
 
-**Detaljer om nyistandsat bund:**
+## **Detaljer om nyistandsat bund:**
 
 En af de store arbejdsopgaver på ældre spækhuggere er bunden. På denne båd er den slebet helt i bund, og bygget op fra bunden med spartling og ny epoxy. Den er bundmalet med hård kobbermaling(WestSystem), der gør bunden"vedligeholdsfri”. Bunden behøver ikke blive bundmalet hvert år, man vasker den blot ved optagning og så er den klar året efter. Stort spartlingsarbejde har gjort kølen glat på siden og skarp på bagkanten.
 
 Bunden har siden vi købte den haft en lille blød plet på finnen foran roret. Den har ikke udviklet sig siden vi købte båden.
 
-**Udstyr:**
+## **Udstyr:**
 
 * Nyt Elvström storsejl til kapsejlads fra 2018(Nypris: 16.000)
 * Storsejl til tursejlads.
@@ -36,7 +36,7 @@ Bunden har siden vi købte den haft en lille blød plet på finnen foran roret. 
 * Tovværks fald
 * Honda 5 hk påhængsmotor.
 
-Billeder:
+## Billeder:
 
 ![](https://paper-attachments.dropbox.com/s_8A33B7CAE3C2F19ADDBB0E2AB7E3B2D692F56A32C033873CB55DC0EC6F5E15E0_1565639636004_IMG_2107.jpeg)
 
@@ -55,3 +55,5 @@ Billeder:
 ![](/uploads/IMG_2031.jpeg)
 
 ![](/uploads/IMG_2829.jpeg)
+
+## Pris: 50.000,-
