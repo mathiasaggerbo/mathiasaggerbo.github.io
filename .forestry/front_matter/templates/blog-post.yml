@@ -16,3 +16,5 @@ fields:
 - type: text
   name: slug
   label: slug
+pages:
+- _posts/spaekhugger-til-salg/spækhugger-den-74-til-salg.md
