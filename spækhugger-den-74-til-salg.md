@@ -16,11 +16,11 @@ Indretningen er enkel, lys og nem at komme rundt i med fire køjepladser.
 
 Båden er hurtig, men fribordet bærer præg af at det er en ældre båd. Det er kun noget du ser tæt på.
 
-Båden har et stift dæk og har været tør i balsatræet(dækketskerne), de steder hvor vi har sat nye beslag på.
+Båden har et stift dæk og har været tør i balsatræet(dækkets kerne), de steder hvor vi har sat nye beslag på.
 
 **Detaljer om nyistandsat bund:**
 
-En af de store arbejdsopgaver på ældre spækhuggere er bunden. På denne båd er den slebet helt i bund, og bygget op fra bunden med spartling og ny epoxy. Den er bundmalet med hård kobbermaling(WestSystem), der gør bunden"vedligeholdsfri".Bunden behøver ikke blive bundmalet hvert år, man vasker den blot ved optagning og så er den klar året efter. Stort spartlingsarbejde har gjort kølen glat på siden og skarp på bagkanten.
+En af de store arbejdsopgaver på ældre spækhuggere er bunden. På denne båd er den slebet helt i bund, og bygget op fra bunden med spartling og ny epoxy. Den er bundmalet med hård kobbermaling(WestSystem), der gør bunden"vedligeholdsfri”. Bunden behøver ikke blive bundmalet hvert år, man vasker den blot ved optagning og så er den klar året efter. Stort spartlingsarbejde har gjort kølen glat på siden og skarp på bagkanten.
 
 Bunden har siden vi købte den haft en lille blød plet på finnen foran roret. Den har ikke udviklet sig siden vi købte båden.
 
