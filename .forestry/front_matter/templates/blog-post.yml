@@ -16,5 +16,3 @@ fields:
 - type: text
   name: slug
   label: slug
-pages:
-- _posts/2019-08-13-test-af-forestry.md
