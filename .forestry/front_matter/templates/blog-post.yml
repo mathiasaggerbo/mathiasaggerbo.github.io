@@ -16,3 +16,5 @@ fields:
 - type: text
   name: slug
   label: slug
+pages:
+- _posts/test-af-forestry.md
