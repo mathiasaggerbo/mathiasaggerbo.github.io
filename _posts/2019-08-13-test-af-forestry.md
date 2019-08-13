@@ -12,5 +12,3 @@ Jeg skal lige se hvad der sker med et billede:
 ![](/uploads/here-we-see-a-react-engineer-deploying-a-contact-form-29125757.png)
 
 Hmm. Det virker jo fint...
-
-![](/uploads/unnamed.jpg)
