@@ -6,7 +6,7 @@ permalink: "/spaekhugger-til-salg/"
 ---
 Danmarks hurtigste Spækhugger til salg i Aarhus.
 
-Hvis du gerne vil sejle kapsejlads, har du her en oplagt mulighed. Alt på båden er sat op til det. Fald er i tovværk og løber nemt og hurtigt. Alle blokke er af høj kvalitet og bunden er istandsat og kølen spartlet. 
+Hvis du gerne vil sejle kapsejlads, har du her en oplagt mulighed. Alt på båden er sat op til det. Fald er i tovværk og løber nemt og hurtigt. Alle blokke er af høj kvalitet og bunden er istandsat og kølen spartlet.
 
 Båden vandt DM i 2015. Den er rigget til kapsejlads og perfekt som weekendturbåd. Den har nyistandsat bund med kobberbund der giver lav vedligehold.
 
@@ -16,15 +16,7 @@ Bådens mast er fra 1990 og bom fra 2002.
 
 Indretningen er enkel, lys og nem at komme rundt i med fire køjepladser.
 
-Båden er hurtig, men fribordet bærer præg af at det er en ældre båd. Det er dog kun noget du ser tæt på.
-
-Båden har et stift dæk uden bløde områder. Den har været tør i balsatræet(dækkets kerne), de steder hvor vi har sat nye beslag på.
-
-## **Detaljer om nyistandsat bund:**
-
-En af de store arbejdsopgaver på ældre spækhuggere er bunden. På denne båd er den slebet helt i bund, og bygget op fra bunden med spartling og ny epoxy. Den er bundmalet med hård kobbermaling (WestSystem), der gør bunden"vedligeholdsfri”. Bunden behøver ikke blive bundmalet hvert år, man vasker den blot ved optagning og så er den klar året efter. Stort spartlingsarbejde har gjort kølen glat på siden og skarp på bagkanten.
-
-Båden har siden vi købte den haft en lille blød plet på finnen foran roret. Den har ikke udviklet sig siden vi købte båden.
+Båden har et stift dæk uden bløde områder. Den har været tør i balsatræet (dækkets kerne), de steder hvor vi har sat nye beslag på.
 
 ## **Udstyr:**
 
