@@ -2,32 +2,33 @@
 layout: page
 title: Spækhugger DEN 74 til salg
 permalink: "/spaekhugger-til-salg/"
-published: false
 
 ---
 Danmarks hurtigste Spækhugger til salg i Aarhus.
 
-Båden vandt DM i 2015 og er nu til salg. Den er rigget til kapsejlads og perfekt som weekendturbåd. Den har nyistandsat bund med kobberbund der giver lav vedligehold.
+Hvis du gerne vil sejle kapsejlads, har du her en oplagt mulighed. Alt på båden er sat op til det. Fald er i tovværk og løber nemt og hurtigt. Alle blokke er af høj kvalitet og bunden er istandsat og kølen spartlet. 
 
-Båden har nyt storsejl(Elvström)og nyere og hurtig genua.
+Båden vandt DM i 2015. Den er rigget til kapsejlads og perfekt som weekendturbåd. Den har nyistandsat bund med kobberbund der giver lav vedligehold.
+
+Båden har nyt storsejl (Elvström) og nyere og hurtig genua.
 
 Bådens mast er fra 1990 og bom fra 2002.
 
 Indretningen er enkel, lys og nem at komme rundt i med fire køjepladser.
 
-Båden er hurtig, men fribordet bærer præg af at det er en ældre båd. Det er kun noget du ser tæt på.
+Båden er hurtig, men fribordet bærer præg af at det er en ældre båd. Det er dog kun noget du ser tæt på.
 
-Båden har et stift dæk og har været tør i balsatræet(dækkets kerne), de steder hvor vi har sat nye beslag på.
+Båden har et stift dæk uden bløde områder. Den har været tør i balsatræet(dækkets kerne), de steder hvor vi har sat nye beslag på.
 
 ## **Detaljer om nyistandsat bund:**
 
-En af de store arbejdsopgaver på ældre spækhuggere er bunden. På denne båd er den slebet helt i bund, og bygget op fra bunden med spartling og ny epoxy. Den er bundmalet med hård kobbermaling(WestSystem), der gør bunden"vedligeholdsfri”. Bunden behøver ikke blive bundmalet hvert år, man vasker den blot ved optagning og så er den klar året efter. Stort spartlingsarbejde har gjort kølen glat på siden og skarp på bagkanten.
+En af de store arbejdsopgaver på ældre spækhuggere er bunden. På denne båd er den slebet helt i bund, og bygget op fra bunden med spartling og ny epoxy. Den er bundmalet med hård kobbermaling (WestSystem), der gør bunden"vedligeholdsfri”. Bunden behøver ikke blive bundmalet hvert år, man vasker den blot ved optagning og så er den klar året efter. Stort spartlingsarbejde har gjort kølen glat på siden og skarp på bagkanten.
 
-Bunden har siden vi købte den haft en lille blød plet på finnen foran roret. Den har ikke udviklet sig siden vi købte båden.
+Båden har siden vi købte den haft en lille blød plet på finnen foran roret. Den har ikke udviklet sig siden vi købte båden.
 
 ## **Udstyr:**
 
-* Nyt Elvström storsejl til kapsejlads fra 2018(Nypris: 16.000)
+* Nyt Elvström storsejl til kapsejlads fra 2018 (Nypris: 16.000)
 * Storsejl til tursejlads.
 * Hurtig Elvström Genua. Første gang brugt 2013.
 * Fok
