@@ -51,3 +51,5 @@ Båden har et stift dæk uden bløde områder. Den har været tør i balsatræet
 ![](/uploads/IMG_2829.jpeg)
 
 ## Pris: 50.000,-
+
+Telefon: 40919255
