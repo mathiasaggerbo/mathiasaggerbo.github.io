@@ -10,7 +10,7 @@ Hvis du gerne vil sejle kapsejlads, har du her en oplagt mulighed. Alt på både
 
 Båden vandt DM i 2015. Den er rigget til kapsejlads og perfekt som weekendturbåd. Den har nyistandsat bund med kobberbund der giver lav vedligehold.
 
-Båden har nyt storsejl (Elvström) og nyere og hurtig genua.
+Båden har nyt storsejl (Elvstrøm) og nyere og hurtig genua.
 
 Bådens mast er fra 1990 og bom fra 2002.
 
@@ -20,9 +20,9 @@ Båden har et stift dæk uden bløde områder. Den har været tør i balsatræet
 
 ## **Udstyr:**
 
-* Nyt Elvström storsejl til kapsejlads fra 2018 (Nypris: 16.000)
+* Nyt Elvstrøm storsejl til kapsejlads fra 2018 (Nypris: 16.000)
 * Storsejl til tursejlads.
-* Hurtig Elvström Genua. Første gang brugt 2013.
+* Hurtig Elvstrøm Genua. Første gang brugt 2013.
 * Fok
 * Spiler
 * Harken blokke overalt.
