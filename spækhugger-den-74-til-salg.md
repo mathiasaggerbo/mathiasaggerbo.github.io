@@ -4,7 +4,9 @@ title: Spækhugger DEN 74 til salg
 permalink: "/spaekhugger-til-salg/"
 
 ---
-Danmarks hurtigste Spækhugger til salg i Aarhus.
+## Opdatering: Båden er solgt.
+
+Danmarks hurtigste Spækhugger til salg i Aarhus. 
 
 Hvis du gerne vil sejle kapsejlads, har du her en oplagt mulighed. Alt på båden er sat op til det. Fald er i tovværk og løber nemt og hurtigt. Alle blokke er af høj kvalitet og bunden er istandsat og kølen spartlet.
 
@@ -51,5 +53,3 @@ Båden har et stift dæk uden bløde områder. Den har været tør i balsatræet
 ![](/uploads/IMG_2829.jpeg)
 
 ## Pris: 50.000,-
-
-Telefon: 40919255
