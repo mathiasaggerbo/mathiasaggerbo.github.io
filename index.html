@@ -1,5 +1,5 @@
 ---
-permalink: "/"
+
 ---
 {% include header.html %}
 <div class="wrapper">
@@ -8,7 +8,7 @@ permalink: "/"
     </div>
     <div class="container">
         <div class="left">
-        {% for post in site.posts %}
+        {% for post in paginator.posts %}
         <article>
             {% if post.title != ""%}<h1><a href="{{site.url}}{{post.url}}">{{post.title}}</a></h1>{%endif%}
             <p>{{post.content}}</p>
@@ -19,7 +19,26 @@ permalink: "/"
         <div class="right">
             
             {% include sidebar.html %}
+            <!-- Pagination links -->
+            <div class="pagination">
+            {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path }}" class="previous">
+                Forrige
+                </a>
+            {% else %}
+                
+            {% endif %}
+            <span class="page_number ">
+                Side: {{ paginator.page }} af {{ paginator.total_pages }}
+            </span>
+            {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path }}" class="next">Næste</a>
+            {% else %}
+                <span class="next ">Næste</span>
+            {% endif %}
+            </div>
         </div>
     </div>
+    
 </div>
 {% include footer.html %}
