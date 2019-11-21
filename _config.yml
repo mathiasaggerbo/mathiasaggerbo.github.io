@@ -18,8 +18,8 @@ email: mathias@aggerbo.dk
 description: >- # this means to ignore newlines until "baseurl:"
   Mit navn er Mathias. Det her er min microblog. Jeg er medstifter af Smartplan og Webloftet, men her på siden skriver jeg under eget navn. Jeg skriver b.la. med afsæt i at være medejer af en software produktvirksomhed.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mathiasaggerbo.dk" # the base hostname & protocol for your site, e.g. http://example.com
-#url: "http://localhost:4000"
+url: "https://mathiasaggerbo.dk" # the base hostname & protocol for your site, e.g. https://example.com
+#url: "https://localhost:4000"
 twitter_username: jekyllrb
 github_username:  jekyll
 paginate: 10

@@ -4,7 +4,7 @@ date: '2018-09-02T08:48:13.022Z'
 title: 02 Engelsk salg - På pause
 slug: 02-engelsk-salg-pa
 ---
-[I første indlæg](http://mathiasaggerbo.dk/2018/08/24/hvorfor-kun-5.html), skrev jeg om vores udfordringer i England. Her er næste indlæg. 
+[I første indlæg](https://mathiasaggerbo.dk/2018/08/24/hvorfor-kun-5.html), skrev jeg om vores udfordringer i England. Her er næste indlæg. 
 
 Jeg har besluttet at sætte vores engelske adwords på pause imens jeg får implementeret nogle forbedringer. 
 
