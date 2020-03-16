@@ -2,7 +2,7 @@
 layout: micropubpost
 date: 2020-03-16 12:30:57 +0000
 title: ''
-slug: ''
+slug: "/corona-beginning/"
 
 ---
 Checking our churn channel more often than what is rational. Running a SMB with revenue based on SMBs in our market is making me nervous.
