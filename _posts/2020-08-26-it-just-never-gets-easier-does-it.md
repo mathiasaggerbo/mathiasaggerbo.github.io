@@ -15,7 +15,7 @@ Now we're well beyond 1000 customers and our monthly revenue is funding a team o
 
 It never got easier though. And I wonder why this comes as a surprise to me. I heard people like Jason Fried from [basecamp.com](https://basecamp.com) say these things. But I didn't want to listen. I quietly thought to my self that it was bullshit. Of course, things would be easier. Everything is easier than having no food on the table.
 
-But now when I read \[[this](https://www.glassdoor.com/blog/jason-fried-in-pursuit/)\] I must say that it resonates today:
+But now when I read [this](https://www.glassdoor.com/blog/jason-fried-in-pursuit/) I must say that it resonates today:
 
 > The thing about business and work is that it never gets easier. A lot of founders think, “It’s going to get easier. We’re only three people now, but once I hire a hundred people, everything’s going to be easier.” Well, it only gets harder because you have to deal with people and personalities and politics. We’re human beings, and we’re complicated — the more of them around, the more complicated it gets, which is one of the reasons why we want to keep our company as small as we possibly can.
 
