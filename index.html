@@ -12,7 +12,7 @@
         <article>
             {% if post.title != ""%}<h1><a href="{{site.url}}{{post.url}}">{{post.title}}</a></h1>{%endif%}
             <p>{{post.content}}</p>
-            <p class="created">Skrevet d. <a href="{{site.url}}{{post.url}}">{{post.date | date_to_string}}</a></p>
+            <p class="created">Published <a href="{{site.url}}{{post.url}}">{{post.date | date_to_string}}</a></p>
         </article>
         {% endfor %}
         </div>
