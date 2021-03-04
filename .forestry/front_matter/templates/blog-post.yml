@@ -17,6 +17,6 @@ fields:
   name: slug
   label: slug
 pages:
+- _posts/100-ord-om-dagen-en-udfordring.md
 - _posts/2019-11-21-staying-on-the-path.md
 - _posts/2020-03-16-corona-update.md
-- _posts/it-just-never-gets-easier-does-it.md
